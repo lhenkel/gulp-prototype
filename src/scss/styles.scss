@@ -1,12 +1,12 @@
 $theme-colors: (
-    "primary": #FF69B4
+     "primary": #C0C0C0
 );
-
-@import "node_modules/bootstrap/scss/bootstrap";
+//@import "node_modules/bootstrap/scss/bootstrap";
 
 body {
-    color: grey;
-    background: rgb(92,18,18);
-    height: 400vh;
+  padding-top: 5rem;
 }
-
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
